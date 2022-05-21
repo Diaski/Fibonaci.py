@@ -16,7 +16,6 @@ else:
         i += 1
         if (i == ans):
             print( a)
-            break
         b += a
         i += 1
         
